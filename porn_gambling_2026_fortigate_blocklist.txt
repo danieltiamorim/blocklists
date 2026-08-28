@@ -2324,7 +2324,6 @@ www.ejuiashsateam.info
 twitterr.com
 ww25.twitterr.com
 urdxh.com
-logs.netflix.com
 mailsupport-24f7f1500ed129bc71f2ad9c06fe1e73.pages.dev
 aeventlog.beacon.qq.com
 astrategy.beacon.qq.com
@@ -7369,9 +7368,6 @@ sdk.stat.foreign.nearme.com.cn
 nend.net
 vdapp.nend.net
 nervoussummer.com
-ichnaea-web.netflix.com
-nmtracking.netflix.com
-presentationtracking.netflix.com
 assets.netizen.co
 sdkapi.netmera.com
 netmng.com
@@ -7981,7 +7977,6 @@ api.radar.io
 proximitykit.radiusnetworks.com
 beacon.rallydev.com
 client.rave-api.com
-display.ravm.tv
 hb-t5u9.raps.ravm.tv
 rayjump.com
 adx-tk.rayjump.com
@@ -80618,7 +80613,6 @@ basketballbelieve.com
 baskettexture.com
 bastingart.com
 beachfront.com
-beacon.netflix.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 bebi.com
@@ -80922,7 +80916,6 @@ curveshore.com
 cushiondrum.com
 customad.cnn.com
 customads.co
-customerevents.netflix.com
 customers.kameleoon.com
 cutechin.com
 cxense.com
