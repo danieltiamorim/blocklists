@@ -320,7 +320,6 @@ www.bacr.com.pk
 check-activity.com.ru
 digitaltextile.com.ru
 0202.com.tw
-adservice.google.com.vn
 com-auth.site
 comericac.com
 comilar-efferiff.icu
@@ -873,8 +872,6 @@ glthubse.info
 www.2468.go2cloud.org
 goldenlion.sg
 adservice.google.be
-marketingplatform.google.com
-smartlock.google.com
 bot2.googlerenewals.net
 linux2.googlerenewals.net
 www.googletagmanager.com
@@ -5737,9 +5734,6 @@ secure.gooddata.com
 google-analytics.com
 ssl.google-analytics.com
 www.google-analytics.com
-ads.google.com
-adservice.google.com
-s0-2mdn-net.l.google.com
 googleadservices.com
 pagead2.googleadservices.com
 www.googleadservices.com
@@ -9797,7 +9791,6 @@ youmi.net
 s.youmi.net
 youradexchange.com
 analytics.youramigo.com
-ads.youtube.com
 global.yyapi.net
 t.global.yyapi.net
 adtima-static.zadn.vn
@@ -63056,7 +63049,6 @@ ad-ace.doubleclick.net
 ad.bg.doubleclick.net
 fls.au.doubleclick.net
 www.doubleclickbygoogle.com
-video-stats.video.google.com
 4.afs.googleadservices.com
 partner.googleadservices.com
 www.googletagservices.com
@@ -72756,7 +72748,6 @@ adserver9.contextad.com
 adserversolutions.com
 adservice.google.ca
 adservice.google.co.za
-adservice.google.com.au
 adservice.google.cz
 adservice.google.nl
 adseu.novem.pl
@@ -79370,7 +79361,6 @@ sr.i2i.jp
 srt-srv.xlisting.jp
 srv1.aaacompany.net
 ssend.microad.jp
-ssl-google-analytics.l.google.com
 ssl.socdm.com
 ssl.webtracker.jp
 ssp-sync.i-mobile.co.jp
@@ -80367,7 +80357,6 @@ adserver01.de
 adserverplus.com
 adserverpub.com
 adserverxxl.de
-adservice.google.com.mt
 adservingfront.com
 adservrs.com
 adservrs.com.edgekey.net
@@ -80498,7 +80487,6 @@ analytics.algoepico.net
 analytics.bitrix.info
 analytics.cloudron.io
 analytics.ext.go-tellm.com
-analytics.google.com
 analytics.jst.ai
 analytics.justuno.com
 analytics.lucid.app
@@ -81501,7 +81489,6 @@ magicadz.co
 magicaljoin.com
 magnetise.io
 magsrv.com
-mail-ads.google.com
 maltiverse.lt.acemlnc.com
 manageadv.cblogs.eu
 mantisadnetwork.com
@@ -81750,7 +81737,6 @@ p-n.io
 p7cloud.net
 paa-reporting-advertising.amazon
 page-checker.eu
-pagead.l.google.com
 pagerank-ranking.de
 pageranktop.com
 painstakingpickle.com
@@ -81764,7 +81750,6 @@ parsely.com
 parsimoniouspolice.com
 partner-ads.com
 partner.pelikan.cz
-partnerad.l.google.com
 partnercash.de
 partnerhut.com
 partnerlinks.io
@@ -82560,7 +82545,6 @@ wowfunnow.com
 writerhubs.com
 wt-eu02.net
 www-banner.chat.ru
-www-google-analytics.l.google.com
 www.dnps.com
 www.kaplanindex.com
 www.photo-ads.co.uk
